@@ -1,2 +1,2 @@
 # Python_Tutorial
-Python Tutorial
+This repository consists of Python Tutorial for data analysis. 
